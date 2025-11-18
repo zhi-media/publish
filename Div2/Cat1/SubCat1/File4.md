@@ -6,4 +6,11 @@ tags: ["标签1", "标签2", "标签3"]
 ---
 # Title OK?
 
-注意：我刚刚更新了博客4！！！！！！！！！
+
+加一些字！
+
+
+<img width="680" height="509" alt="image" src="https://github.com/user-attachments/assets/c505528b-e1f1-42e7-9a51-0b78524d981c" />
+
+
+注意：我刚刚更新了博客4！！！！！
